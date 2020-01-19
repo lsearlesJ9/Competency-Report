@@ -1,0 +1,88 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    background-image: url(img/bannerimg.jpg);
+    height: 350px;
+    background-position: center center;
+    background-size: cover;
+    padding-top: 100px;
+    color: black;
+    text-shadow: 3px 2px white;
+    letter-spacing: 5px;
+}
+h2{
+    background-color: grey;
+    text-align: center;
+    font-size: 16px;
+    color: lightgray;
+    width: 88%;
+    padding-left: 10px;
+    
+}
+
+h3{
+    background-color: gray;
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    width: 100px;
+    width: 75px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 3px;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+h3 a:hover{
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+#imgLocation{
+    width: 300px;
+    border: 2px solid;
+    border-radius: 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.7;
+}
+
+A{
+    text-decoration: none;
+    color: black;
+}
+
+.imgProducts{
+    width: 100px;
+    height: 100px;
+    border: 3px solid;
+}
+
+.products{
+    width: 300px;
+    height: 300px;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 1px;
+    text-align: center;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tacos{
+    width: 200px;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
